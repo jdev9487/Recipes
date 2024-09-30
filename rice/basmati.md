@@ -1,4 +1,5 @@
-# Basmati rice (2 people)
+# Basmati rice
+Serves 2 people
 
 ## Plain
 

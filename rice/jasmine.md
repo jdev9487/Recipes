@@ -1,4 +1,5 @@
-# Jasmine rice (2 people)
+# Jasmine rice
+Serves 2 people
 
 ## Plain
 
