@@ -4,7 +4,7 @@
 - 500g Plain Flour
 - 240g Vegan Butter Block
 - Teaspoon Salt
-- 140g Icing Sugar
+- 160g Icing Sugar
 - Ice cold water
 
 ### Method
