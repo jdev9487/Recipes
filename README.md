@@ -7,3 +7,6 @@ A collection of useful recipes.
 
 ## Cakes
 * [Lemon Drizzle](./cakes/lemonDrizzle.md)
+
+## Pastry
+* [Sweet Shortcrust](./pastry/sweetShortcrust.md)
