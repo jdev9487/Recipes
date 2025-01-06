@@ -5,8 +5,11 @@ Serves 2 people
 
 ### Ingredients for 2 people
 - 130g rice
-- 200g water
+- 210g water
 - pinch of salt
+### Bigger portion
+- 150g rice
+- 240g water
 
 ### Method
 1. Rinse rice in sieve until water runs clear.
